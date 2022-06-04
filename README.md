@@ -18,5 +18,5 @@ Calculadora iniciante utilizando função construtora em JS e bootstrap.
 
 Victor Hugo Roth Romaniuk
 
-https://www.linkedin.com/in/victor-hugo-roth-romaniuk
+https://www.linkedin.com/in/victor-hugo-roth-romaniuk-52510b159
 
