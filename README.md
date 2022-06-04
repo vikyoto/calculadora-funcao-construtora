@@ -6,7 +6,7 @@ Calculadora iniciante com função construtora.
 Calculadora iniciante utilizando função construtora em JS e bootstrap.
 
 ## Layout mobile
-!https://github.com/vikyoto/calculadora-funcao-construtora/blob/main/print/calculadora.PNG
+![Mobile 1](https://github.com/vikyoto/calculadora-funcao-construtora/blob/main/print/calculadora.PNG)
 
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
